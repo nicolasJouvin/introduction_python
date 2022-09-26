@@ -4,7 +4,17 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 * Author : [Nicolas Jouvin](https://nicolasjouvin.github.io)
 
 
-> First session : tuesday 20th september, 14h-17h15 (salle info)
+**Dates & exam**
+
+> Session 1 : tuesday 20th september, 14h-17h15 (salle info)
+
+> Session 2 : tuesday 27th september, **8h30-11h45** (salle info) (careful, this session is in the morning, not the afternoon).
+
+> Session 3 : tuesday 4th october, 14-17h15 (salle info)
+
+> Session 4 : tuesday 18th october, 14-17h15 (salle info)
+
+> Exam : tuesday 25th october, **12h45-14h45** (salle 01)
 
 # Cloning the repository
 
