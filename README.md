@@ -9,6 +9,7 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 > Session 3 : tuesday 4th october, 14-17h15 (salle info)
 
 **TODO**
+
 	* Read the Numpy tutorial : https://courspython.com/bases-numpy.html#
 	* Read the Matplotlib tutorial : https://courspython.com/introduction-courbes.html
 	* Look at the numpy warmup notebook in the /Numpy/ folder
