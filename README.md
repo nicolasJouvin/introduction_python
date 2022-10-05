@@ -10,9 +10,9 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 
 > Exam : tuesday 25th october, **12h45-14h45** (salle 01)
 
-**TODO**
+**TODO** You'll need to
 
-	* Finish the NumPy exercise sheet & look at the correction
+	*  Finish the NumPy exercise sheet & look at the correction
 	* Read the Pandas tutorial, choose the one you prefer
 		* https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 		* https://www.w3schools.com/python/pandas/default.asp (focus on the "basic" part)
