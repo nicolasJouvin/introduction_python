@@ -4,8 +4,23 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 * Author : [Nicolas Jouvin](https://nicolasjouvin.github.io)
 
 
-**Dates & exam**
+### Dates & exam
 
+> **Next & last session** Session 4 : tuesday 18th october, 14-17h15 (salle info)
+
+> Exam : tuesday 25th october, **12h45-14h45** (salle 01)
+
+**TODO**
+
+	* Finish the NumPy exercise sheet & look at the correction
+	* Read the Pandas tutorial, choose the one you prefer
+		* https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+		* https://www.w3schools.com/python/pandas/default.asp (focus on the "basic" part)
+	* Look at the Pandas warmup notebook of Tamas Gal : https://github.com/escape2020/school2022/blob/main/pandas/1_pd_warmup.ipynb
+	* We'll do the following exercise sheet (credits to Fabrice Rossi) : https://apiacoa.org/publications/teaching/python/intro-pandas-students.pdf
+	* It requires to download the file [bank-short.csv](https://apiacoa.org/publications/teaching/datasets/bank-short.csv)	
+
+### Past
 > Session 3 : tuesday 4th october, 14-17h15 (salle info)
 
 **TODO**
@@ -15,9 +30,9 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 	* Look at the numpy warmup notebook in the `/Numpy/` folder
 	* Begin the NumPy exercise sheet int the `/Numpy/` folder
 
-> Session 4 : tuesday 18th october, 14-17h15 (salle info)
 
-> Exam : tuesday 25th october, **12h45-14h45** (salle 01)
+
+
 
 # Cloning the repository
 
