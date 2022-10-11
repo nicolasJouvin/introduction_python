@@ -8,10 +8,9 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 
 > **Next & last session** Session 4 : tuesday 18th october, 14-17h15 (salle info)
 
-> Exam : tuesday 25th october, **12h45-14h45** (salle 01)
+> Exam : tuesday 8th November, **15-17h** (salle ?)
 
 **TODO** You'll need to
-
 	*  Finish the NumPy exercise sheet & look at the correction
 	* Read the Pandas tutorial, choose the one you prefer
 		* https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
