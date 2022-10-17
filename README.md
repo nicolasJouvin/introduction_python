@@ -6,7 +6,7 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 
 ### Dates & exam
 
-> **Next & last session** Session 4 : tuesday 18th october, 14-17h15 (salle info)
+> **Next & last session** Session 4 : wednesday 19th october, 14h30-17h30 (salle info)
 
 > Exam : tuesday 8th November, **15-17h** (salle ?)
 
