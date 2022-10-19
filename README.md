@@ -17,7 +17,8 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 		* https://www.w3schools.com/python/pandas/default.asp (focus on the "basic" part)
 	* Look at the Pandas warmup notebook of Tamas Gal : https://github.com/escape2020/school2022/blob/main/pandas/1_pd_warmup.ipynb
 	* We'll do the following exercise sheet (credits to Fabrice Rossi) : https://apiacoa.org/publications/teaching/python/intro-pandas-students.pdf
-	* It requires to download the file [bank-short.csv](https://apiacoa.org/publications/teaching/datasets/bank-short.csv)	
+	* It requires to download the file [bank-short.csv](https://apiacoa.org/publications/teaching/datasets/bank-short.csv) and [departments.csv](https://apiacoa.org/publications/teaching/datasets/departements.csv)
+
 
 ### Past
 > Session 3 : tuesday 4th october, 14-17h15 (salle info)
