@@ -6,11 +6,20 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 
 ### Dates & exam
 
-> **Next & last session** Session 4 : wednesday 19th october, 14h30-17h30 (salle info)
+> Exam : tuesday 8th November, **15h15-17h** (1h45, salle 113) : le sujet sera en anglais et en français.
 
-> Exam : tuesday 8th November, **15-17h** (salle ?)
+  * Examen sur papier : pas le droit à la machine 
+  * Aucun documents annexe autorisé
+  * Programme : tous les cours et TP (Syntaxe, objets "basiques", modules NumPy, Pandas & matplotlib)
+  
+  
+
+### Past
+> **Session 4** : wednesday 19th october, 14h30-17h30 (salle info)
+
 
 **TODO** You'll need to
+
 	*  Finish the NumPy exercise sheet & look at the correction
 	* Read the Pandas tutorial, choose the one you prefer
 		* https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
@@ -18,9 +27,8 @@ Course taught between September and October 2022 at Evry university's M2 *data s
 	* Look at the Pandas warmup notebook of Tamas Gal : https://github.com/escape2020/school2022/blob/main/pandas/1_pd_warmup.ipynb
 	* We'll do the following exercise sheet (credits to Fabrice Rossi) : https://apiacoa.org/publications/teaching/python/intro-pandas-students.pdf
 	* It requires to download the file [bank-short.csv](https://apiacoa.org/publications/teaching/datasets/bank-short.csv) and [departments.csv](https://apiacoa.org/publications/teaching/datasets/departements.csv)
+	* Correction TP Pandas [sur le site de Fabrice Rossi](https://apiacoa.org/publications/teaching/python/intro-pandas.pdf) 
 
-
-### Past
 > Session 3 : tuesday 4th october, 14-17h15 (salle info)
 
 **TODO**
